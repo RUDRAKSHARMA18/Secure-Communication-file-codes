@@ -1,3 +1,5 @@
+//Write Program to Encrypt and Decrypt by Affine Cipher (7, 1) the message 'Cryptography is easy subject'. Take Input Message and Key (7, 1) and Output ciphertext.
+
 #include <iostream>
 #include <string>
 #include <cctype>
